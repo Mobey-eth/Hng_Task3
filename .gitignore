@@ -17,11 +17,13 @@
 
 # Ignore log files
 *.log
+__pycache__/
 
 # Ignore temporary files
 *.tmp
 *.swp
 *.bak
+myenv/
 
 # Ignore sensitive or environment-specific files
 .env
